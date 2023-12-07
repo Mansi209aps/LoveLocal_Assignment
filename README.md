@@ -36,3 +36,6 @@ Q. Given an integer array of size n, find all elements that appear more than ⌊
 ### HARD
 
 Q. Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.
+
+
+If you have any questions or feedback, feel free to contact me at [mansisharma209aps@gmail.com](mailto:mansisharma209aps@gmail.com).
