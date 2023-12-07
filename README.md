@@ -8,18 +8,18 @@ LoveLocal is a digital platform that bridges the gap between local retailers and
 
 Here's what makes LoveLocal special:
 
-1. Supporting local businesses.
-2. Convenience for customers.
-3. Quality products.
-4. Engaging community.
+- Supporting local businesses.
+- Convenience for customers.
+- Quality products.
+- Engaging community.
 
 ### LoveLocal's impact:
 
 LoveLocal's mission is to empower local businesses and make online shopping a truly local experience. They are achieving this by:
 
-1. Digitizing local shops.
-2. Providing valuable data and insights.
-3. Building a strong network.
+- Digitizing local shops.
+- Providing valuable data and insights.
+- Building a strong network.
 
 Overall, LoveLocal is a positive force in today's digital landscape. It empowers local businesses, provides convenience and quality to customers, and fosters a strong sense of community.
 
